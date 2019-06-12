@@ -1,0 +1,88 @@
+{
+  "input": {
+    "deviceId": "s:0x0403:0x6001:AK072UCH"
+  },
+  "outputs": [
+    {
+      "deviceId": "s:0x0403:0x6001:AK072TLU",
+      "blockSize": 4,
+      "translations": [
+        [1, 1],
+        [2, 2],
+        [3, 3]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072TMC",
+      "blockSize": 4,
+      "translations": [
+        [4, 1],
+        [5, 2],
+        [6, 3]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072TMO",
+      "blockSize": 4,
+      "translations": [
+        [7, 1],
+        [8, 2],
+        [9, 3]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072TUF",
+      "blockSize": 4,
+      "translations": [
+        [10, 1],
+        [11, 2],
+        [12, 3]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072TUH",
+      "blockSize": 4,
+      "translations": [
+        [1, 3],
+        [2, 2],
+        [3, 1]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072TUJ",
+      "blockSize": 4,
+      "translations": [
+        [4, 3],
+        [5, 2],
+        [6, 1]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072TUK",
+      "blockSize": 4,
+      "translations": [
+        [7, 3],
+        [8, 2],
+        [9, 1]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072UAD",
+      "blockSize": 4,
+      "translations": [
+        [10, 3],
+        [11, 2],
+        [12, 1]
+      ]
+    },
+    {
+      "deviceId": "s:0x0403:0x6001:AK072UAH",
+      "blockSize": 4,
+      "translations": [
+        [4, 1],
+        [8, 2],
+        [12, 3]
+      ]
+    }
+  ]
+}
